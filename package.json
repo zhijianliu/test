@@ -10,6 +10,7 @@
     "test:ci:record": "../../node_modules/.bin/cypress run --record"
   },
   "dependencies": {
-    "cypress": "^12.9.0"
+    "cypress": "^12.9.0",
+    "cypress-axe": "^1.4.0"
   }
 }
