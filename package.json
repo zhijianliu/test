@@ -8,5 +8,8 @@
     "cypress:run": "../../node_modules/.bin/cypress run",
     "test:ci": "../../node_modules/.bin/cypress run",
     "test:ci:record": "../../node_modules/.bin/cypress run --record"
+  },
+  "dependencies": {
+    "cypress": "^12.9.0"
   }
 }
